@@ -1,0 +1,6 @@
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\Singleton\bin\Debug\Singleton.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\Singleton\bin\Debug\Singleton.pdb
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\Singleton\obj\Debug\Singleton.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\Singleton\obj\Debug\Singleton.pdb

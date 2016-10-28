@@ -1,0 +1,6 @@
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\01-TimerExample\bin\Debug\01-TimerExample.exe.config
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\01-TimerExample\bin\Debug\01-TimerExample.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\01-TimerExample\bin\Debug\01-TimerExample.pdb
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\01-TimerExample\obj\Debug\01-TimerExample.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\01-TimerExample\obj\Debug\01-TimerExample.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\01-TimerExample\obj\Debug\01-TimerExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\LockThread\bin\Debug\LockThread.exe.config
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\LockThread\bin\Debug\LockThread.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\LockThread\bin\Debug\LockThread.pdb
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\LockThread\obj\Debug\LockThread.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\LockThread\obj\Debug\LockThread.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\LockThread\obj\Debug\LockThread.pdb

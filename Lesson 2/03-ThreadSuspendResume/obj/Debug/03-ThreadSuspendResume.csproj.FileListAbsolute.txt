@@ -1,0 +1,5 @@
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\03-ThreadSuspendResume\bin\Debug\03-ThreadSuspendResume.exe.config
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\03-ThreadSuspendResume\bin\Debug\03-ThreadSuspendResume.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\03-ThreadSuspendResume\bin\Debug\03-ThreadSuspendResume.pdb
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\03-ThreadSuspendResume\obj\Debug\03-ThreadSuspendResume.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\03-ThreadSuspendResume\obj\Debug\03-ThreadSuspendResume.pdb

@@ -1,0 +1,10 @@
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\06- WF_Private24\bin\Debug\06- WF_Private24.exe.config
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\06- WF_Private24\bin\Debug\06- WF_Private24.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\06- WF_Private24\bin\Debug\06- WF_Private24.pdb
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\06- WF_Private24\obj\Debug\_06__WF_Private24.Form1.resources
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\06- WF_Private24\obj\Debug\_06__WF_Private24.Properties.Resources.resources
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\06- WF_Private24\obj\Debug\06- WF_Private24.csproj.GenerateResource.Cache
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\06- WF_Private24\obj\Debug\06- WF_Private24.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\06- WF_Private24\obj\Debug\06- WF_Private24.pdb
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\06- WF_Private24\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\06- WF_Private24\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,5 @@
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\02-TimerExample\bin\Debug\02-TimerExample.exe.config
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\02-TimerExample\bin\Debug\02-TimerExample.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\02-TimerExample\bin\Debug\02-TimerExample.pdb
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\02-TimerExample\obj\Debug\02-TimerExample.exe
+C:\Users\student.STEP\Desktop\Exam\Lesson 2\02-TimerExample\obj\Debug\02-TimerExample.pdb
