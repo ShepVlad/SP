@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00-Attribute", "Attribute\00-Attribute.csproj", "{33D554EB-52E0-4FC2-8491-1BE6879EBD82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-CleanTresh", "02-CleanTresh\01-CleanTresh.csproj", "{E58A0AD2-B468-43BE-9D55-EC0B7D32AA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-GCSample", "02-GCSample\02-GCSample.csproj", "{B4CB3AEE-EFC4-45C8-9932-D4CEF7217D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Destructor(Finalizator)", "Destructor(Finalizator)\03-Destructor(Finalizator).csproj", "{DA2E6220-BAE9-4609-AA6C-98EF1F4B8B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-TimerFromTimers", "06-TimerFromTimers\05-TimerFromTimers.csproj", "{A0D5BB2A-7BD4-48E0-9DCA-804EFA8AEEFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-TimerZBS", "05-TimerZBS\04-TimerZBS.csproj", "{FF49E442-2838-4E43-9DC9-AFC21B9E7630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D554EB-52E0-4FC2-8491-1BE6879EBD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D554EB-52E0-4FC2-8491-1BE6879EBD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D554EB-52E0-4FC2-8491-1BE6879EBD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D554EB-52E0-4FC2-8491-1BE6879EBD82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58A0AD2-B468-43BE-9D55-EC0B7D32AA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58A0AD2-B468-43BE-9D55-EC0B7D32AA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58A0AD2-B468-43BE-9D55-EC0B7D32AA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58A0AD2-B468-43BE-9D55-EC0B7D32AA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CB3AEE-EFC4-45C8-9932-D4CEF7217D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CB3AEE-EFC4-45C8-9932-D4CEF7217D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CB3AEE-EFC4-45C8-9932-D4CEF7217D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CB3AEE-EFC4-45C8-9932-D4CEF7217D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA2E6220-BAE9-4609-AA6C-98EF1F4B8B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2E6220-BAE9-4609-AA6C-98EF1F4B8B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2E6220-BAE9-4609-AA6C-98EF1F4B8B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2E6220-BAE9-4609-AA6C-98EF1F4B8B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D5BB2A-7BD4-48E0-9DCA-804EFA8AEEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D5BB2A-7BD4-48E0-9DCA-804EFA8AEEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D5BB2A-7BD4-48E0-9DCA-804EFA8AEEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D5BB2A-7BD4-48E0-9DCA-804EFA8AEEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF49E442-2838-4E43-9DC9-AFC21B9E7630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF49E442-2838-4E43-9DC9-AFC21B9E7630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF49E442-2838-4E43-9DC9-AFC21B9E7630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF49E442-2838-4E43-9DC9-AFC21B9E7630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
