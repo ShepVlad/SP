@@ -192,6 +192,9 @@ namespace ProcessManipulation
             RunProcess("calc.exe");
         }
 
-        
+        private void MainWindow_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

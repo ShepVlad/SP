@@ -75,7 +75,7 @@
             // CloseWindowButton
             // 
             this.CloseWindowButton.Enabled = false;
-            this.CloseWindowButton.Location = new System.Drawing.Point(197, 116);
+            this.CloseWindowButton.Location = new System.Drawing.Point(196, 116);
             this.CloseWindowButton.Name = "CloseWindowButton";
             this.CloseWindowButton.Size = new System.Drawing.Size(83, 23);
             this.CloseWindowButton.TabIndex = 3;
@@ -149,6 +149,7 @@
             this.Name = "MainWindow";
             this.Text = "Управление дочерними процессами";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainWindow_FormClosing);
+            this.Load += new System.EventHandler(this.MainWindow_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.ResumeLayout(false);

@@ -17,11 +17,19 @@ namespace _04_CreateInstance
 
             foreach (Type t in mod.GetTypes())
 
-                Console.WriteLine(t.FullName); 
+                Console.WriteLine(t.FullName);
+            Console.WriteLine("-------------------------");
             Type type = assembly.GetType("CarLibrary.MiniVan");
 
+
+
+
+
             object o1 = Activator.CreateInstance(type,
-                new object[] { "Test", (short)50, (short)40 });
+                new object[] { "TOYOTA", (short)150, (short)110 });
+
+           
+
             MethodInfo method = type.GetMethod("Acceleration");
 
             method.Invoke(o1, null);
